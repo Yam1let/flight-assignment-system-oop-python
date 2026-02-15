@@ -1,5 +1,5 @@
 """
-Banking System - OOP in Python
+Flight Assignment System - OOP in Python
 Author: Yam1let
 """
 
@@ -78,3 +78,4 @@ if __name__ == "__main__":
     print(flight1.assigned_pilot.name)
     print(pilot1.weekly_flight_hours)
     print(len(pilot1.flight_schedule))
+
